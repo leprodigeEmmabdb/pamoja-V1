@@ -1,0 +1,4 @@
+CREATE DATABASE identite;
+CREATE DATABASE sujets;
+CREATE DATABASE messagerie;
+CREATE DATABASE notifications;
